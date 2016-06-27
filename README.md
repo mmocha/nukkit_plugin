@@ -14,7 +14,7 @@ ________________
 클린채팅 [CleanChat][ccd]
 웰컴서버 [WelcomeServer][wsd]
 </code><pre>
-<Link>[http://github.com/moca127/nukkit_plugins]
+<Link>[http://github.com/mmocha/nukkit_plugin]
 
 
 
